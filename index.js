@@ -28,6 +28,11 @@ const usersData = [
         id: 5,
         name: "Daniyal",
         age: 28
+    },
+    {
+        id: 6,
+        name: "Obaid",
+        age: 20
     }
 ]
 
