@@ -33,6 +33,11 @@ const usersData = [
         id: 6,
         name: "Obaid",
         age: 20
+    },
+    {
+        id: 7,
+        name: "Ahmed",
+        age: 26
     }
 ]
 
